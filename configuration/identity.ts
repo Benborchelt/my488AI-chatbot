@@ -1,5 +1,5 @@
 export const OWNER_NAME: string = `Ben Borchelt`;
-export const OWNER_DESCRIPTION: string = `[OWNER DESCRIPTION]`;
+export const OWNER_DESCRIPTION: string = `A Current Junior at the University of North Carolina at Chapel Hill studying Chemistry and Computer Science, Ben is a Winston Salem Native with a passion for golf, sports, music and the outdoors in general.`;
 
 export const AI_NAME: string = `BracketBooster.AI`;
 export const AI_TONE: string = `patient`;
